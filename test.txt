@@ -1,0 +1,183 @@
+data=
+{
+    "0": {
+        "id": 439953,
+        "date": "2021-02-27T19:45:58",
+        "date_gmt": "2021-02-27T17:45:58",
+        "guid": {
+            "rendered": "https://www.geektime.co.il/?p=439953"
+        },
+        "modified": "2021-02-27T19:08:13",
+        "modified_gmt": "2021-02-27T17:08:13",
+        "slug": "geekmamlitz270221",
+        "status": "publish",
+        "type": "post",
+        "link": "https://www.geektime.co.il/geekmamlitz270221/",
+        "title": {
+            "rendered": "הגיק ממליץ: וובינרים שלא כדאי לכם לפספס החודש"
+        },
+        "content": {
+            "rendered": "<p><a href=\"https://files.geektime.co.il/wp-content/uploads/2015/03/geek-mamlitz-640.jpg\" data-action=\"lightbox\" title=\"הגיק ממליץ: וובינרים שלא כדאי לכם לפספס החודש\" target=\"_blank\"><img class=\"aligncenter wp-image-244457 size-full\" src=\"https://files.geektime.co.il/wp-content/uploads/2015/03/geek-mamlitz-640.jpg\" alt=\"\" width=\"640\" height=\"400\" /></a></p>\n<p>הקורונה מביאה איתה שינויים ורוב רובם של הכנסים והמיטאפים נדחים. לכן, לפחות בזמן הקרוב &#8211; כולנו נשארים בבית ונפגשים בוובינרים. פה תוכלו להתעדכן בוובינרים הטכנולוגיים הבולטים שצפויים להתקיים בשבוע הקרוב. אם אתם מארגנים וובינר, או נתקלתם בוובינר לקהילה הטכנולוגית הישראלית שמתקיים בימי הסגר, <strong><a href=\"mailto:info@geektime.co.il\" target=\"_blank\" rel=\"noopener noreferrer\">מוזמנים לעדכן אותנו כאן במייל</a> ולפרסם את הוובינר שלכם חינם ב<a href=\"https://geeklist.geektime.co.il/index_events.php\" target=\"_blank\" rel=\"noopener noreferrer\">לוח האירועים שלנו</a>.</strong></p>\n<hr style=\"margin-top: 40; margin-bottom: 40; border: 0; height: 1px; border-bottom: 1px dotted #d4d4d4;\" />\n<h3>הוובינרים המומלצים של החודש</h3>\n<p>&nbsp;</p>\n<hr />\n<h3><a href=\"https://www.aeai.org.il/activity/smart-antennas-course/?gt\" target=\"_blank\" rel=\"noopener noreferrer\">סדנת אנטנות חכמות</a></h3>\n<p><strong>(IT ותשתיות)</strong></p>\n<p><strong>מתי?</strong> <span style=\"font-family: Arial, Times New Roman, Bitstream Charter, Times, serif;\">28</span> בפברואר, 2021</p>\n<p>הסדנה עוסקת בהיכרות עם מערכי אנטנות מתקדמים המהווים חלק ממערכות תקשורת ומכ”ם לצרכים צבאיים ואזרחיים. מגוון השימושים של מערכי אנטנות הוא רב – החל במכ”מים צבאיים סוקרי אלומה או מרובי אלומות, עבור תחנות בסיס חכמות של דור 5 ותקשורת לווינים בתנועה וכלה במכ”מים אזרחיים למניעת התנגשויות ובקרת רכב אוטונומי. תחום מערכי האנטנות מהווה כר נרחב לחידושים והמצאות, כולל מעבר לתדרים גבוהים של גלי מילימטרים ורוחבי סרט גדולים.</p>\n<p><strong><a href=\"https://www.aeai.org.il/activity/smart-antennas-course/?gt\" target=\"_blank\" rel=\"noopener noreferrer\">לפרטים נוספים והרשמה</a></strong></p>\n<hr />\n<h3><a href=\"https://prico.co.il/webinar-financial-risk-management-at-time-of-fluctuations-in-technology-companies/\" target=\"_blank\" rel=\"noopener noreferrer\">Financial Risk Management at Time of Fluctuations in Technology Companies</a></h3>\n<p><strong>(הייטק)</strong></p>\n<p><strong>מתי?</strong> 28 בפברואר, 2021</p>\n<p>Founders, CEOs and VPs of high-tech companies, startups and venture capitalists , we are honored to invite you to an Extends webinar on financial risk management with Joseph Fraiman, CEO of the Prico Group, a company that has been operating for over 40 years in the fields of risk management of foreign exchange, commodity and interest rate. The Prico team covers the needs of consulting and deal execution for leading Israel corporations as well as start-ups and funds.</p>\n<p><a href=\"https://prico.co.il/webinar-financial-risk-management-at-time-of-fluctuations-in-technology-companies/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>לפרטים נוספים והרשמה</strong></a></p>\n<hr />\n<h3><a href=\"https://gkt.me/3qRnAQT\" target=\"_blank\" rel=\"noopener noreferrer\">ענן, AI ומציאות רבודה: מיקרוסופט מזמינה אתכם לכנס Ignite 2021</a></h3>\n<p><strong>(אבטחת מידה)</strong></p>\n<p><strong>מתי?</strong> 2-4 במרץ, 2021</p>\n<div class=\"gmail_default\" dir=\"rtl\">\n<p>אירוע הענן הבינלאומי של מיקרוסופט יוצא לדרך: כנס Microsoft Ignite הוא אירוע עולמי שמושך אליו בכל פעם מאות אלפי משתתפים, וגם השנה הוא ייערך באופן מקוון ובהרשמה מראש. במשך שלושה ימים (2-4 במרץ) תוכלו ליהנות מסדנאות, הרצאות וחיבורים עסקיים משמעותיים באזורי למידה ומפגש ייעודיים.</p>\n<p>הכנס יעסוק בכל הנושאים הכי חמים בעולמות הטכנולוגיה – למידה ועבודה מרחוק, אבטחת מידע ושירותי ענן, טכניקות פיתוח, בינה מלאכותית ומציאות רבודה ודרכים להתמודד עם מגוון האתגרים שעבודה בענן יכולה לתת להם מענה – הכל מפי המומחים העולמיים של מיקרוסופט. בכנס יוצגו גם הפיתוחים הכי חמים באבטחה, בתשתיות ובפיתוח – וכמובן טכנולוגיות הענן הכי חדשות.</p>\n<p>בין הדוברים בכנס תוכלו לשמוע את מנכ”ל מיקרוסופט, סאטיה נאדלה; אלכס קיפמן, האיש שדוחף את ההולולנס והמציאות הרבודה קדימה; מנהל תחום הבינה המלאכותית והחדשנות – דייוויד כרמונה; ראש חטיבת הענן – סקוט גאת’רי (“האיש בחולצה האדומה”); וזו רק ההתחלה</p>\n</div>\n<p><a href=\"https://gkt.me/3qRnAQT\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>לפרטים נוספים והרשמה</strong></a></p>\n<p>&nbsp;</p>\n<hr />\n<p><strong>מארגנים וובינר שווה? שמעתם על אחד כזה? <a href=\"mailto:info@geektime.co.il\" target=\"_blank\" rel=\"noopener noreferrer\">מוזמנים לעדכן אותנו כאן במייל</a>.</strong></p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>המיטאפים והכנסים הופכים לוובינרים ואנחנו זורמים: הנה מבחר וובינרים טכנולוגיים שווים שיתקיימו בחודש הקרוב</p>\n",
+            "protected": false
+        },
+        "author": 17,
+        "featured_media": 420962,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "_links_to": "",
+            "_links_to_target": ""
+        },
+        "categories": [
+            577,
+            7
+        ],
+        "tags": [
+            16592,
+            45387,
+            58614,
+            45444,
+            57358,
+            24426,
+            27203,
+            32362,
+            51341,
+            45518,
+            4616,
+            60609,
+            45587,
+            45734,
+            45562,
+            59624,
+            57730,
+            74936,
+            60243,
+            58271,
+            45372,
+            45456,
+            57357,
+            45452,
+            7576,
+            59371,
+            20624,
+            31217,
+            33049,
+            21867,
+            55021,
+            31693,
+            13735,
+            45542,
+            45538,
+            45694,
+            45680,
+            45658,
+            45496,
+            33253,
+            21716,
+            45393,
+            30,
+            45908,
+            42707,
+            45484,
+            45737,
+            52503,
+            74317,
+            45640,
+            36649,
+            45524,
+            45821,
+            36133
+        ],
+        "channel": [],
+        "funder": [],
+        "amp_validity": null,
+        "amp_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/posts/439953"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/users/17"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/comments?post=439953"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/posts/439953/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 439986,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/posts/439953/revisions/439986"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/media/420962"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/media?parent=439953"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/categories?post=439953"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/tags?post=439953"
+                },
+                {
+                    "taxonomy": "channel",
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/channel?post=439953"
+                },
+                {
+                    "taxonomy": "funder",
+                    "embeddable": true,
+                    "href": "https://www.geektime.co.il/wp-json/wp/v2/funder?post=439953"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+}
